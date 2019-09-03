@@ -1,0 +1,12 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+adnow.com	TRUE	/	FALSE	1999999999	PHPSESSID	7ko5tt32og97gtln305jp4bj85
+adnow.com	TRUE	/	FALSE	1999999999	utm_source	blog+adnow
+adnow.com	TRUE	/	FALSE	1999999999	utm_medium	link
+adnow.com	TRUE	/	FALSE	1999999999	utm_campaign	start+to+earn+button
+adnow.com	TRUE	/	FALSE	1999999999	utm_term	0
+adnow.com	TRUE	/	FALSE	1999999999	register_from_manager_1	0
+.adnow.com	TRUE	/	FALSE	1999999999	USER_GET_PARAMS	%7B%22event%22%3A%22landing%22%2C%22action%22%3A%22guideForProfit%22%7D
+.adnow.com	TRUE	/	FALSE	1999999999	user_lang	en
+.adnow.com	TRUE	/	FALSE	1999999999	__cfduid	d3119d22bc01870a4c85c3fd927e8b61b1567489329
+
